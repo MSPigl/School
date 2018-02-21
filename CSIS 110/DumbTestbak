@@ -1,3 +1,0 @@
-def adhfljashflahsfhalshflkahslfhka():
-  myThing=makePicture(getMediaPath("Palpy.jpg"))
-  show (myThing)
