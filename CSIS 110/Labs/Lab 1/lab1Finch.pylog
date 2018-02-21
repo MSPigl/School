@@ -1,0 +1,51 @@
+<file_created time="Fri Sep 18 14:54:32 EDT 2015">
+<Could not find Z:\csis110\My Labs\Lab 1\lab1Finch.pylog, creating a new logfile>
+<command_run time="Fri Sep 18 14:55:31 EDT 2015">moveFinch()></command_run>
+<command_run time="Fri Sep 18 14:56:23 EDT 2015">myFinch.setWheelVelocities(255,255,1000)></command_run>
+<menu_button time="Fri Sep 18 14:57:25 EDT 2015">Load Program</menu_button>
+<file_saved time="Fri Sep 18 14:57:26 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+</file_created>
+<menu_button time="Fri Sep 18 14:57:57 EDT 2015">Save Program</menu_button>
+<file_saved time="Fri Sep 18 14:57:57 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+<file_opened time="Fri Sep 18 14:59:12 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_opened>
+<menu_button time="Fri Sep 18 14:59:18 EDT 2015">Load Program</menu_button>
+<command_run time="Fri Sep 18 14:59:40 EDT 2015">moveFinch()></command_run>
+<menu_button time="Fri Sep 18 15:00:32 EDT 2015">Undo</menu_button>
+<menu_button time="Fri Sep 18 15:02:14 EDT 2015">Save Program</menu_button>
+<file_saved time="Fri Sep 18 15:02:14 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+</file_created>
+<menu_button time="Fri Sep 18 15:02:15 EDT 2015">Load Program</menu_button>
+<command_run time="Fri Sep 18 15:02:24 EDT 2015">moveFinch()></command_run>
+<command_run time="Fri Sep 18 15:02:44 EDT 2015">moveFinch()></command_run>
+<command_run time="Fri Sep 18 15:03:15 EDT 2015">move(Finch)></command_run>
+<menu_button time="Fri Sep 18 15:04:37 EDT 2015">Save Program</menu_button>
+<file_saved time="Fri Sep 18 15:04:38 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+</file_created>
+<menu_button time="Fri Sep 18 15:04:40 EDT 2015">Load Program</menu_button>
+<command_run time="Fri Sep 18 15:05:00 EDT 2015">moveFinch()></command_run>
+<command_run time="Fri Sep 18 15:05:18 EDT 2015">moveFinch()></command_run>
+<command_run time="Fri Sep 18 15:05:45 EDT 2015">moveFinch()></command_run>
+<menu_button time="Fri Sep 18 15:06:08 EDT 2015">Save Program</menu_button>
+<file_saved time="Fri Sep 18 15:06:08 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+</file_created>
+<menu_button time="Fri Sep 18 15:06:10 EDT 2015">Load Program</menu_button>
+<command_run time="Fri Sep 18 15:06:38 EDT 2015">moveFinch()></command_run>
+<menu_button time="Fri Sep 18 15:07:17 EDT 2015">Save Program</menu_button>
+<file_saved time="Fri Sep 18 15:07:17 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+</file_created>
+<menu_button time="Fri Sep 18 15:07:18 EDT 2015">Load Program</menu_button>
+<command_run time="Fri Sep 18 15:07:34 EDT 2015">moveFinch()></command_run>
+<menu_button time="Fri Sep 18 15:07:49 EDT 2015">Load Program</menu_button>
+<file_saved time="Fri Sep 18 15:07:50 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+</file_created>
+<command_run time="Fri Sep 18 15:07:55 EDT 2015">moveFinch()></command_run>
+<command_run time="Fri Sep 18 15:08:25 EDT 2015">moveFinch()></command_run>
+<menu_button time="Fri Sep 18 15:08:52 EDT 2015">Load Program</menu_button>
+<file_saved time="Fri Sep 18 15:08:53 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+</file_created>
+<command_run time="Fri Sep 18 15:09:01 EDT 2015">moveFinch()></command_run>
+<menu_button time="Fri Sep 18 15:09:14 EDT 2015">Stop</menu_button>
+<command_run time="Fri Sep 18 15:09:22 EDT 2015">stop></command_run>
+<menu_button time="Fri Sep 18 15:10:34 EDT 2015">Save Program</menu_button>
+<file_saved time="Fri Sep 18 15:10:34 EDT 2015">Z:\csis110\My Labs\Lab 1\lab1Finch.py</file_saved>
+</file_created>

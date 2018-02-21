@@ -1,0 +1,47 @@
+import random
+
+# Roll two die, displays your numbers, then adds them and displays the result
+def dice():
+  from random import randint
+  d = (randint (1,6))
+  e = (randint (1,6))
+  print "Your numbers are " + str(d) + " and " + str(e)
+  if d == e:
+    print "Deuces!"
+  else:
+    print "Sweet roll bruh!"
+  print "Together they make " + str(d + e)
+  
+def favNum():
+  num=requestInteger ("What is your favorite number between 0 and 10?")
+  if num <= 0 or num > 9:
+    print "I asked for BETWEEN 0 and 10 -_-"
+  elif num==1:
+    print "1?? First is the worst!"
+  elif num==2:
+    print "2? Second is the best!"
+  elif num==3:
+    print "3? Third is the one with the hairy chest"
+  else:
+    print str(num)+ "??" + " That's my favorite too!!" 
+
+    
+# Try to guess the computer's number. Just type "guessMyNumber()" to get started!    
+def guessMyNumber():
+  num=requestInteger("I'm thinking of a number between 1 and 25. What is it?")
+  if num==13:
+    print "Wow, you got it! Good job!"
+  elif num > 14:
+    print "Nope! Try guessing lower!"
+  elif num < 12:
+    print "Nope! Try guessing higher!"
+  elif num == 12:
+    print "SO CLOSE! Try just a little higher!"
+  elif num == 14:
+    print "SO CLOSE! Try just a little lower!"
+  elif num <= 1 or num >= 25:
+    print "I said guess BETWEEN 1 and 25"
+  print "To play again, type 'guessMyNumber()'!"
+
+    
+    

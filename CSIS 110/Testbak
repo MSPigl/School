@@ -1,0 +1,50 @@
+def test(a, b):
+  if a != b:
+    return a + b
+  else:
+    print "wow what a loser"
+    return (a+b)*2
+    
+def diff21(n):
+  if n < 21:
+    return abs(21-n)
+  else:
+    return abs(21-n)*2
+    
+def parrot_trouble(talking, hour):
+  if talking and (hour < 7 or hour > 20):
+    print "True"
+  else:
+    print "False"
+    
+def front3(str):
+  front_end = 3
+  if len(str) < front_end:
+    front_end = len(str)
+  front = str[:front_end]
+  print front + front + front
+  
+def string_times(str, n):
+  result = ""
+  for x in range(n):
+    result = result + str
+  print result
+  
+def looper():
+  for x in range(6):
+    if x%2 == 0:
+      print "Yo mama \n"
+      x = x + 1
+    else:
+      print x
+      print ""
+      
+def pic_test():
+  setMediaPath()
+  file = pickAFile()
+  pic = makePicture(file)
+  for p in getPixels(pic):
+    setBlue(p, getBlue(p)/2)
+    setGreen(p, getGreen(p)/2)
+  show(pic)
+  
