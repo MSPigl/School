@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HarderArrayWork()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ HarderArrayWork\r\n
+comment1.params=
+comment1.target=void\ evenToFront()
+comment1.text=\r\n\ Moves\ all\ even\ elements\ to\ the\ front\r\n
+comment2.params=
+comment2.target=int\ secondLargest()
+comment2.text=\r\n\ Returns\ the\ second\ largest\ element\ in\ the\ array\r\n
+comment3.params=
+comment3.target=void\ printArray()
+comment3.text=\r\n\ Prints\ the\ array\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

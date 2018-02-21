@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wiccan()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Wiccan\r\n
+comment1.params=
+comment1.target=void\ printLocations()
+comment1.text=\r\n\ Prints\ the\ grid\ location\ of\ the\ herbs,\ both\ wolves,\ and\ the\ wiccan\r\n
+comment2.params=
+comment2.target=void\ moveWitch()
+comment2.text=\r\n\ Randomly\ moves\ the\ wiccan\ until\ she\ either\ encounters\ a\ wolf\ or\ finds\ her\ herbs\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ method\ for\ class\ Wiccan\r\n
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ProblemSolver()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ProblemSolver\r\n
+comment1.params=
+comment1.target=boolean\ getProblem()
+comment1.text=\r\n\ Requests\ a\ math\ problem\ from\ the\ user;\ establishes\ Q\ as\ a\ sentinel\ value\r\n
+comment2.params=input
+comment2.target=void\ computeProblem(java.lang.String)
+comment2.text=\r\n\ Solves\ a\ user-inputted\ math\ problem\ and\ stroes\ it\ in\ instance\ variable\ correctAnswer\r\n\ @param\ input\ the\ user\ inputted\ math\ problem\r\n
+comment3.params=
+comment3.target=void\ getAnswer()
+comment3.text=\r\n\ Requests\ an\ answer\ to\ the\ math\ problem\ from\ the\ user\r\n
+comment4.params=
+comment4.target=void\ displayResponse()
+comment4.text=\r\n\ Determines\ whether\ the\ user\ correctly\ answered\ the\ math\ problem\ or\ not,\ and\ responds\ accordingly\r\n
+comment5.params=
+comment5.target=void\ runCalculator()
+comment5.text=\r\n\ Accepts\ the\ user\ inputted\ math\ problem,\ solves\ it,\ then\ displays\ whether\ or\ not\ the\r\n\ user\ answer\ is\ correct\ or\ not\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Main\ method\ for\ class\ ProblemSolver\r\n
+numComments=7

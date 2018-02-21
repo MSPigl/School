@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BetterGPACalculator()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BetterGPACalculator\r\n
+comment1.params=
+comment1.target=void\ getData()
+comment1.text=\r\n\ Requests\ input\ data\ (credit\ value\ and\ received\ letter\ grade)\ from\ the\ user\ for\ five\ academic\r\n\ classes,\ and\ then\ stores\ that\ information\ in\ their\ respective\ instance\ variables\r\n
+comment2.params=grade
+comment2.target=double\ convertLetter(java.lang.String)
+comment2.text=\r\n\ Converts\ letter\ grades\ to\ a\ float\ value\r\n\ @param\ grade\ the\ String\ letter\ grade\ input\r\n\ @return\ returnGrade\ the\ float\ value\ of\ the\ String\ input\r\n
+comment3.params=
+comment3.target=double\ computeGPA()
+comment3.text=\r\n\ Computes\ a\ grade\ point\ average\ using\ the\ ten\ defined\ instance\ variables\ of\ Class\ BetterGPACalculator\r\n\ @return\ gpa\ grade\ point\ average\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Executes\ BetterGPACalculator\ methods\ by\ taking\ user\ inputs\ and\ outputting\ a\ grade\ point\ average\r\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fuelEfficiencyIn
+comment0.target=Car(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car.\r\n\ @param\ fuelEfficiencyIn\ the\ fuel\ efficiency\ of\ the\ Car\ object\r\n
+comment1.params=distance
+comment1.target=double\ drive(int)
+comment1.text=\r\n\ Reduces\ the\ amount\ of\ fuel\ in\ tank.\r\n\ @param\ distance\ amount\ traveled\ in\ miles\r\n\ @return\ amount\ of\ gas\ removed\ from\ tank\r\n
+comment2.params=plusGas
+comment2.target=double\ addGas(int)
+comment2.text=\r\n\ Adds\ gas\ to\ tank.\r\n\ @param\ plusGas\ amount\ of\ gas\ to\ add\r\n\ @return\ amount\ of\ gas\ added\ to\ tank\r\n
+comment3.params=
+comment3.target=double\ getGas()
+comment3.text=\r\n\ Gets\ amount\ of\ gass\ in\ tank.\r\n\ @return\ amount\ of\ gas\ in\ tank\r\n
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=s0\ v0\ t\ g
+comment0.target=double\ sMethod(double,\ double,\ double,\ double)
+comment0.text=\r\n\ Method\ for\ the\ first\ expression\ of\ R4.5\r\n\ @param\ s0\ variable\ \r\n\ @param\ v0\ variable\r\n\ @param\ t\ variable\r\n\ @param\ g\ variable\ \r\n\ @return\ s\ the\ result\ of\ the\ math\ expression\r\n
+comment1.params=a\ p\ m1\ m2
+comment1.target=double\ gMethod(double,\ double,\ double,\ double)
+comment1.text=\r\n\ Method\ for\ the\ second\ expression\ of\ R4.5\r\n\ @param\ a\ variable\r\n\ @param\ p\ variable\r\n\ @param\ m1\ variable\r\n\ @param\ m2\ variable\r\n\ @return\ g\ the\ result\ of\ the\ math\ expression\r\n
+comment2.params=PV\ INT\ YRS
+comment2.target=double\ fvMethod(double,\ double,\ double)
+comment2.text=\r\n\ Method\ for\ the\ third\ expression\ of\ R4.5\r\n\ @param\ PV\ variable\r\n\ @param\ INT\ variable\r\n\ @param\ YRS\ variable\ power\r\n\ @return\ fv\ the\ result\ of\ the\ math\ expression\r\n
+comment3.params=a\ b\ gamma
+comment3.target=double\ cMethod(double,\ double,\ double)
+comment3.text=\r\n\ Method\ for\ the\ fourth\ expression\ of\ R4.5\r\n\ @param\ a\ variable\r\n\ @param\ b\ variable\r\n\ @param\ gamma\ variable\r\n\ @return\ c\ the\ result\ of\ the\ math\ expression\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method\ for\ class\ MathFun\r\n
+numComments=5

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayMethods()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayMethods\r\n
+comment1.params=
+comment1.target=int[]\ swapFirstLast()
+comment1.text=\r\n\ Swaps\ the\ position\ of\ the\ first\ and\ last\ element\ in\ the\ array\r\n\ @return\ values\ the\ altered\ array\r\n
+comment2.params=
+comment2.target=int[]\ shiftRight()
+comment2.text=\r\n\ Shifts\ all\ values\ one\ place\ to\ the\ right\ and\ moves\ the\ last\ element\ to\ the\ first\ position\r\n\ @return\ values\ the\ altered\ array\r\n
+comment3.params=
+comment3.target=int[]\ replaceEven()
+comment3.text=\r\n\ Replaces\ all\ elements\ that\ contain\ an\ even\ value\ with\ a\ zero\r\n\ @return\ values\ the\ altered\ array\r\n
+comment4.params=
+comment4.target=int[]\ replaceNeighbor()
+comment4.text=\r\n\ Replaces\ an\ element\ with\ the\ largest\ of\ its\ neighbor,\ excluding\ the\ first\ and\ last\ element\r\n\ @return\ values\ the\ altered\ array\r\n
+comment5.params=
+comment5.target=void\ printArray()
+comment5.text=\r\n\ Prints\ the\ array\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Main\ method\ for\ class\ ArrayMethods\r\n
+numComments=7

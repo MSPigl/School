@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Practice(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Practice\r\n
+comment1.params=
+comment1.target=int\ getQ()
+comment2.params=
+comment2.target=int\ getR()
+comment3.params=c
+comment3.target=int\ crazy(int)
+comment4.params=xIn\ yIn\ zIn\ qIn
+comment4.target=double\ average(int,\ int,\ int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

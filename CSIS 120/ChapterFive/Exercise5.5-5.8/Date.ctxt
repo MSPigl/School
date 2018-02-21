@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Date()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Date\r\n
+comment1.params=month\ day
+comment1.target=java.lang.String\ getSeason(int,\ int)
+comment1.text=\r\n\ Accepts\ a\ month\ and\ day,\ and\ returns\ the\ season\r\n\ @param\ month\ a\ month\ as\ an\ integer\r\n\ @param\ day\ a\ day\ as\ an\ integer\r\n\ @return\ season\ the\ season\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

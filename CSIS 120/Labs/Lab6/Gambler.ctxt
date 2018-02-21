@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gambler()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Gambler\r\n
+comment1.params=
+comment1.target=void\ spinWheels()
+comment2.params=
+comment2.target=java.lang.String\ getWheels()
+comment3.params=
+comment3.target=void\ computeWin()
+comment4.params=
+comment4.target=void\ currentBalance()
+numComments=5

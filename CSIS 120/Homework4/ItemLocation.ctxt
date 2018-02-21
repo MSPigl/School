@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ItemLocation()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ItemLocation\r\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\r\n\ Getter\ for\ instance\ variable\ xPosition\r\n\ @return\ xPosition\ the\ x-coordinate\ of\ an\ ItemPosition\ object\r\n
+comment2.params=
+comment2.target=int\ getY()
+comment2.text=\r\n\ Getter\ for\ instance\ variable\ yPosition\r\n\ @return\ yPosition\ the\ y-coordinate\ of\ an\ ItemPosition\ object\r\n
+comment3.params=xIn
+comment3.target=int\ setX(int)
+comment3.text=\r\n\ Setter\ for\ instance\ variable\ xPosition\r\n\ @param\ xIn\ the\ new\ xPosition\r\n\ @return\ xPosition\ the\ updated\ xPosition\r\n
+comment4.params=yIn
+comment4.target=int\ setY(int)
+comment4.text=\r\n\ Setter\ for\ instance\ variable\ yPosition\r\n\ @param\ yIn\ the\ new\ yPosition\r\n\ @return\ yPosition\ the\ updated\ yPosition\r\n
+comment5.params=itemIn
+comment5.target=boolean\ equalTo(ItemLocation)
+comment5.text=\r\n\ Tests\ if\ two\ ItemLocation\ objects\ equal\ each\ other\r\n\ @return\ true\ the\ objects\ are\ equal\r\n\ @return\ false\ the\ objects\ are\ not\ equal\r\n
+comment6.params=itemIn
+comment6.target=boolean\ notEqualTo(ItemLocation)
+comment6.text=\r\n\ Tests\ if\ two\ ItemLocation\ objects\ are\ not\ equal\ to\ each\ other\r\n\ @return\ false\ the\ objects\ are\ not\ equal\r\n\ @return\ true\ the\ objects\ are\ equal\r\n
+numComments=7

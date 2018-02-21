@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayMethods()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayMethods\r\n
+comment1.params=arrayToPrint
+comment1.target=void\ printArray(java.lang.String[])
+comment1.text=\r\n\ Prints\ the\ array\ elements\ separated\ by\ commas\r\n\ @param\ arrayToPrint\ the\ array\ to\ be\ printed\r\n
+comment2.params=arrayToSwap
+comment2.target=void\ swapItems(java.lang.String[])
+comment2.text=\r\n\ Swaps\ the\ first\ and\ last\ array\ element\r\n\ @param\ arrayToSwap\ the\ array\ to\ swap\r\n
+comment3.params=arrayToCheck
+comment3.target=boolean\ alphabetical(java.lang.String[])
+comment3.text=\r\n\ Checks\ if\ the\ array\ elements\ are\ in\ alphabetical\ order\r\n\ @return\ true\ the\ elements\ are\ in\ alphabetical\ order\r\n
+comment4.params=arrayShift
+comment4.target=void\ shiftLeft(java.lang.String[])
+comment4.text=\r\n\ Shifts\ all\ array\ elements\ one\ position\ to\ the\ left\r\n\ @param\ arrayShift\ the\ array\ to\ be\ shifted\r\n
+comment5.params=arrayToMove
+comment5.target=java.lang.String[]\ evenToFront(java.lang.String[])
+comment5.text=\r\n\ Moves\ even\ character\ length\ elements\ to\ the\ front\r\n\ @param\ arrayToMove\ the\ array\ to\ be\ altered\r\n\ @return\ newArray\ the\ new\ array\r\n
+comment6.params=arrayToCheck
+comment6.target=java.lang.String\ secondLongest(java.lang.String[])
+comment6.text=\r\n\ Returns\ the\ second\ largest\ string\ from\ the\ array\r\n\ @param\ arrayToCheck\ the\ array\ to\ check\r\n\ @return\ sec\ the\ second\ largest\ string\ element\ in\ the\ array\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\r\n\ Main\ method\r\n
+numComments=8

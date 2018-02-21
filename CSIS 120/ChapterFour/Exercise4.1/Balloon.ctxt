@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Balloon()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Balloon\r\n
+comment1.params=amount
+comment1.target=void\ inflate(double)
+comment1.text=\r\n\ Inflates\ a\ Balloon\ object\ by\ a\ given\ amount\r\n\ @param\ amount\ the\ amount\ to\ inflate\ the\ Balloon\ object\ by\r\n
+comment2.params=
+comment2.target=double\ getVolumeGood()
+comment2.text=\r\n\ Gets\ the\ volume\ of\ a\ Balloon\ object\ using\ a\ class-level\ constant\r\n\ @return\ volume\ the\ volume\ of\ the\ Balloon\ object\r\n
+comment3.params=
+comment3.target=double\ getVolumeBetter()
+comment3.text=\r\n\ Gets\ the\ volume\ of\ a\ Balloon\ object\ using\ Math.PI\r\n\ @return\ volume\ the\ volume\ of\ the\ Balloon\ object\r\n
+numComments=4
