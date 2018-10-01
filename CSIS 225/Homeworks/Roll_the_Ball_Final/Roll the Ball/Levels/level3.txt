@@ -1,0 +1,4 @@
+startS XX XX XX
+NS* XX X endS
+X WE WE* XX
+NE XX X NW*

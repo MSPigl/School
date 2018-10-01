@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=type\ lowX\ lowY\ highX\ highY
+comment0.target=Tile(java.lang.String,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Tile\r\n\ \r\n\ @param\ type\ String\ to\ hold\ the\ type\ of\ pipe\r\n\ @param\ lowX\ the\ leftmost\ location\ on\ the\ Tile\r\n\ @param\ lowY\ the\ uppermost\ location\ on\ the\ Tile\r\n\ @param\ highX\ the\ rightmost\ location\ on\ the\ Tile\r\n\ @param\ highY\ the\ bottommost\ location\ on\ the\ Tile\r\n
+comment1.params=row\ column
+comment1.target=void\ setLocation(int,\ int)
+comment1.text=\r\n\ Sets\ a\ Tile's\ location\ in\ a\ grid\r\n\ \r\n\ @param\ row\ the\ Tile's\ row\ designation\r\n\ @param\ column\ the\ Tile's\ column\ designation\r\n
+comment2.params=t
+comment2.target=boolean\ isNextTo(Tile)
+comment2.text=\r\n\ Determines\ if\ a\ Tile\ is\ next\ to\ another\ Tile\r\n\ \r\n\ @param\ t\ a\ Tile\ object\r\n\ @return\ true\ if\ the\ Tile\ is\ next\ to\ another\ Tile,\ false\ otherwise\r\n
+comment3.params=t
+comment3.target=boolean\ equals(Tile)
+comment3.text=\r\n\ Determines\ if\ a\ Tile's\ row\ and\ column\ position\ are\ equal\ to\ another's\r\n\ \r\n\ @param\ t\ a\ Tile\ object\r\n
+numComments=4
