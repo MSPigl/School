@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ for\ class\ PipeGrid\r\n\ \r\n\ @param\ args\ array\ of\ command\ line\ arguments\r\n
+comment1.params=filename
+comment1.target=PipeGrid(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ type\ PipeGrid\r\n
+comment2.params=
+comment2.target=void\ findSolution()
+comment2.text=\r\n\ Attempts\ to\ find\ a\ path\ through\ a\ grid\r\n
+comment3.params=currRow\ currCol
+comment3.target=boolean\ move(int,\ int)
+comment3.text=\r\n\ Moves\ through\ the\ grid\ recursively\r\n\ \r\n\ @param\ currRow\ the\ current\ row\r\n\ @param\ currCol\ the\ current\ column\r\n\ \r\n\ @return\ true\ if\ a\ path\ was\ found,\ false\ if\ not\r\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=Deck(int[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Deck\r\n\ \r\n\ @param\ input\ an\ array\ of\ ints\r\n
+comment1.params=
+comment1.target=int\ draw()
+comment1.text=\r\n\ Pops\ the\ stack\ and\ adds\ the\ popped\ Integer\ to\ the\ discard\ array\r\n\ \r\n\ @return\ the\ popped\ value\ as\ an\ int\r\n
+comment2.params=input
+comment2.target=void\ shuffle(int[])
+comment2.text=\r\n\ Shuffles\ an\ input\ array\ than\ pushes\ its\ contents\ onto\ a\ stack\r\n\ \r\n\ @param\ input\ an\ array\ of\ ints\r\n
+comment3.params=
+comment3.target=void\ reShuffle()
+comment3.text=\r\n\ Re-shuffles\ a\ non-empty\ deck\r\n
+numComments=4
